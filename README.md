@@ -96,13 +96,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/srivikas777/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/srivikas777/srivikas777/output/snake.svg" alt="Snake animation" />
-
-###
